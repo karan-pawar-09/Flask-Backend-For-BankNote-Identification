@@ -31,3 +31,9 @@ With these steps, the Flask app is deployed on the AWS EC2 Linux server, and Gun
 
 ## Screenshot of working flask api
 <img width="628" alt="Screenshot 2023-05-27 at 3 02 41 PM" src="https://github.com/karan-pawar-09/Flask-Backend-For-BankNote-Identification/assets/70064211/760ff4b2-2847-4d42-a8a1-0e902756e34d">
+
+## best_model.h5 link
+https://drive.google.com/file/d/1yyM23G7Hvs7K-Q7Z23jBctxSi_2e9Bl5/view?usp=share_link
+
+## colab notebook link
+https://colab.research.google.com/drive/1avp-iSzpe_AiGj3UAuUpEwMBoqJltOon?usp=sharing
